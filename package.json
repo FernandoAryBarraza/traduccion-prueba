@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "buid:prod": "ng build --configuration production --base-href: /traduccion-prueba/*",
+    "build:prod": "ng build --configuration production --base-href: /traduccion-prueba/*",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:traduccion-prueba": "node dist/traduccion-prueba/server/server.mjs"
